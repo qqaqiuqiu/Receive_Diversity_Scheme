@@ -11,3 +11,6 @@ the theoretical BER and the upper bound of BER for MRC which has 4RX
 different rho_threshold result in SSC
 
 ![螢幕擷取畫面 2022-11-19 230409](https://user-images.githubusercontent.com/76609089/202857916-ddcf89d3-5abb-4827-992b-86f2130f579d.png)
+Can observe that when in high SNR
+
+
