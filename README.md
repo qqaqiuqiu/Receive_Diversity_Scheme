@@ -2,7 +2,7 @@
 
 ### the rusult which has 4Rx
 
-![螢幕擷取畫面 2022-11-18 010351](https://user-images.githubusercontent.com/76609089/202857701-24ad42b4-bc70-4658-8f58-f150ea2dd9ef.png)
+![螢幕擷取畫面 2022-11-20 183859](https://user-images.githubusercontent.com/76609089/202897751-64a64a3c-8293-49af-a4bf-8d1ae5eb4c21.png)
 
 ### the theoretical BER and the upper bound of BER for MRC which has 4RX
 
@@ -12,7 +12,8 @@ Resourse : http://www.dsplog.com/2008/09/28/maximal-ratio-combining/
 
 ### different rho_threshold result in SSC
 
-![螢幕擷取畫面 2022-11-19 230409](https://user-images.githubusercontent.com/76609089/202857916-ddcf89d3-5abb-4827-992b-86f2130f579d.png)
+![螢幕擷取畫面 2022-11-20 183342](https://user-images.githubusercontent.com/76609089/202897770-cbd857ff-cc0e-4a4e-bc3e-4f6be49926f7.png)
+
 Can discover that while at high SNR, 
 
 detector tend to choose the same RX, it approaches to line 1TxRx .
