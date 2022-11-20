@@ -29,7 +29,7 @@ for i_ssc = 1 : length(SNR)
 
         if  j_ssc ~= 1
 
-            if (SNR(i_ssc) * abs(h_ssc_opt(1, (j_ssc - 1)))) >= rho_th_linear
+            if (SNR(i_ssc) * power(abs(h_ssc_opt(1, (j_ssc - 1))), 2)) >= rho_th_linear
                 h_ssc_opt(1, j_ssc) = h_ssc(1, j_ssc, tmp);
                 n_ssc_opt(1, j_ssc) = n_ssc(1, j_ssc, tmp);
                 continue
