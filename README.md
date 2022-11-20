@@ -7,13 +7,16 @@
 ### the theoretical BER and the upper bound of BER for MRC which has 4RX
 
 ![螢幕擷取畫面 2022-11-19 222039](https://user-images.githubusercontent.com/76609089/202857777-072f57b1-a85f-49f1-8c10-8d9da88756a0.png)
-resourse : http://www.dsplog.com/2008/09/28/maximal-ratio-combining/
+
+Resourse : http://www.dsplog.com/2008/09/28/maximal-ratio-combining/
 
 ### different rho_threshold result in SSC
 
 ![螢幕擷取畫面 2022-11-19 230409](https://user-images.githubusercontent.com/76609089/202857916-ddcf89d3-5abb-4827-992b-86f2130f579d.png)
 Can discover that while at high SNR, 
-SNR tend to choose the same RX, it approaches to line 1TxRx .
-On the other hand, low SNR tend to choose different Rx like SC.
+
+detector tend to choose the same RX, it approaches to line 1TxRx .
+
+On the other hand, at low SNR detector tend to choose different Rx like SC.
 
 
