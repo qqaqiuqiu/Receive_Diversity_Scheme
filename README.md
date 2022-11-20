@@ -23,3 +23,8 @@ Can discover that while at high SNR,
 detector tend to choose the same RX, it approaches to line 1TxRx .
 
 On the other hand, at low SNR detector tend to choose different Rx like SC.
+
+### hybrid MRC-SC 
+
+which always selects two antennas with the largest channl gains
+![螢幕擷取畫面 2022-11-20 210929](https://user-images.githubusercontent.com/76609089/202904535-b806337b-bcb1-4d00-85af-44f9508762a7.png)
