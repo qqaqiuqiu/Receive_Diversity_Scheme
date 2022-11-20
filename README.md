@@ -17,6 +17,8 @@ Resourse : http://www.dsplog.com/2008/09/28/maximal-ratio-combining/
 ### different rho_threshold result in SSC
 
 ![螢幕擷取畫面 2022-11-20 183342](https://user-images.githubusercontent.com/76609089/202897770-cbd857ff-cc0e-4a4e-bc3e-4f6be49926f7.png)
+![螢幕擷取畫面 2022-11-20 210000](https://user-images.githubusercontent.com/76609089/202904738-480564c4-92af-4a89-a15f-eb7d3cd23cb4.png)
+
 
 Can discover that while at high SNR, 
 
