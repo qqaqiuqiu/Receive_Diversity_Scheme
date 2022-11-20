@@ -7,6 +7,7 @@
 ### the theoretical BER and the upper bound of BER for MRC which has 4RX
 
 ![螢幕擷取畫面 2022-11-19 222039](https://user-images.githubusercontent.com/76609089/202857777-072f57b1-a85f-49f1-8c10-8d9da88756a0.png)
+resourse : http://www.dsplog.com/2008/09/28/maximal-ratio-combining/
 
 ### different rho_threshold result in SSC
 
