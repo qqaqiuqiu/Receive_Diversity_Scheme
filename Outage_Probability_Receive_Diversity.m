@@ -1,4 +1,4 @@
-clear all; clc;
+clear all; clc;  t 
 N = 10^6;                           % sample signal number
 SNRdB = 0:2:10;                     % SNR = [0, 2, 4, 6, 8, 10]
 SNR = 10 .^ (0.1 .* SNRdB);         % SNR in linear scale
